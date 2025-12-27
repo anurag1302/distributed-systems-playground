@@ -8,6 +8,8 @@
 # .NET
 order-service/OrderService.Sln/OrderService/bin
 order-service/OrderService.Sln/OrderService/obj
+payment-service/PaymentService.Sln/PaymentService/bin
+payment-service/PaymentService.Sln/PaymentService/obj
 *.user
 *.rsuser
 *.suo
