@@ -4,7 +4,7 @@ using PaymentService.Models;
 namespace PaymentService.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("payments")]
 public class PaymentsController:ControllerBase
 {
     private static readonly Random random = new Random();
