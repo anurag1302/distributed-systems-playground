@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# .NET
+order-service/OrderService.Sln/OrderService/bin
+order-service/OrderService.Sln/OrderService/obj
+*.user
+*.rsuser
+*.suo
